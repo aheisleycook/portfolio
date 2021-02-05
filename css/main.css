@@ -37,6 +37,23 @@ html {
   text-shadow: none;
 }
 
+.navbar-default {
+  background-color:#b3d4fc;
+}
+.navbar-default .nav-menu  {
+  background-color: hsl(213, 92%, 85%);
+  display:inline-block;
+}
+.navbar-default .nav-menu .nav-item {
+  background-color:hsl(213, 92%, 85%);
+  display:inline-block;
+}
+header {
+  background: darkcyan;
+  font-size: 23;
+  color: gold;
+}
+
 /*
  * A better looking default horizontal rule
  */
