@@ -39,19 +39,61 @@ html {
 
 .navbar-default {
   background-color:#b3d4fc;
+  border-bottom: #222222 4px solid;
 }
 .navbar-default .nav-menu  {
   background-color: hsl(213, 92%, 85%);
   display:inline-block;
+
 }
 .navbar-default .nav-menu .nav-item {
-  background-color:hsl(213, 92%, 85%);
-  display:inline-block;
+  background-color: hsl(213, 92%, 85%);
+  display: inline-block;
+  padding: 4px;
+
 }
 header {
   background: darkcyan;
-  font-size: 23;
+
+}
+
+body {
+  font-family: tahoma;
+  font-weight: bold;
+
+
+
+}
+.skils-sections{
+  font-size:12;
+  font-family: tahoma;
+  font-weight: bold;
+  position:relative;
+  left:23px;
+
+}
+.nav-link {
+  width: auto;
+  height: 80px;
+  color:olivedrab;
+  border-radius:4cm;
+  transition:2s;
+
+}
+.nav-link:hover {
+  background:blue;
+  width: auto;
+  height: 80px;
+  color:olivedrab;
+  border-radius:4cm;
+}
+
+.header-title {
+  font-size: 16px;
   color: gold;
+  position:relative;
+  left:10px;
+
 }
 
 /*
