@@ -11,6 +11,29 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+.about 
+{
+  position:relative;
+  left:100px;
+  text-align:center;
+}
+
+.about h3
+{
+  position:relative;
+  left:100px;
+  text-align:center;
+}
+
+.about p 
+{
+  position:relative;
+  left:100px;
+  text-align:center;
+
+}
+
+
 html {
   color: #222;
   font-size: 1em;
