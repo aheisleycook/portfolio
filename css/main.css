@@ -14,21 +14,21 @@
 .about 
 {
   position:relative;
-  left:100px;
-  text-align:center;
+  left:30px;
+  text-align:left;
 }
 
 .about h3
 {
   position:relative;
-  left:100px;
-  text-align:center;
+  left:30px;
+  text-align:left;
 }
 
 .about p 
 {
   position:relative;
-  left:100px;
+  left:30px;
   text-align:center;
 
 }
